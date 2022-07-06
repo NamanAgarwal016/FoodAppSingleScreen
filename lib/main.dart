@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 padding: EdgeInsets.fromLTRB(10.0, 20.0, 10.0, 2.0),
                 child: Center(
                     child: Text(
-                  'All the best restaurants with their top menu waiting for you, they can\'t wait for your order!',
+                  'All the best restaurants with their top menu waiting for you, they can\'t wait for your order!!',
                   style: TextStyle(fontSize: 15.0),
                   textAlign: TextAlign.center,
                 )),
